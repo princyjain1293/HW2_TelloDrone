@@ -1,3 +1,9 @@
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.*;
 import java.net.DatagramSocket;
 import java.util.ArrayList;
@@ -6,25 +12,44 @@ import java.util.Iterator;
 import java.util.List;
 
 
-public class SimpleMission implements Mission{
-    
+public class SimpleMission implements Mission {
+
     // public SimpleMission(String[] requestArray){
     //     this.requestArray=requestArray;
     // }
 
     public void fly(String ipAddress, int dronePort, DatagramSocket udpClient) throws Exception {
         Communicator communicator = new Communicator(ipAddress, dronePort);
+        //String[] requestArray = new String[];
         //List<List<String>> records = new ArrayList<>();
-        BufferedReader readCSV = new BufferedReader(new FileReader("SimpleMission.csv"));
+        /*BufferedReader readCSV = new BufferedReader(new FileReader("SimpleMission.csv"));
         String line;
 
-        String[] requestArray = new String[0];
+
         while ((line = readCSV.readLine()) != null) {
             requestArray = line.split(",");
             //records.add(Arrays.asList(requestArray));
         }
-        //String[] requestArray={"command","takeoff","left 25","right 25","land"};
-        System.out.println("You are going on a simple mission....");
+        */
+        ArrayList<String> requestArray= new ArrayList<>();
+        File xmlFile = new File("SimpleMission.xml");
+        DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+        DocumentBuilder builder = dbFactory.newDocumentBuilder();
+        Document doc = builder.parse(xmlFile);
+        NodeList nList= doc.getElementsByTagName("Command");
+
+
+        for (int j=0; j<nList.getLength();j++){
+            Node requestNode= nList.item(j);
+            //requestArray[j]= requestNode.getTextContent();
+            requestArray.add(requestNode.getTextContent());
+        }
+        for (int temp=0; temp<requestArray.size();temp++){
+            System.out.println(requestArray.get(temp));
+        }
+
+        System.out.println("You are going on a Simple mission....");
+
 
         for (String request : requestArray) {
             //List finalRequest = iterator.next();
@@ -51,11 +76,9 @@ public class SimpleMission implements Mission{
                     Right right = new Right();
                     right.doAction(communicator, request, udpClient);
                     break;
+
+
             }
         }
-
     }
-
-    
-   
 }
