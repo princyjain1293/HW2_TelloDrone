@@ -1,6 +1,6 @@
 import java.net.DatagramSocket;
 
-public class Left {
+public class Left implements Message{
     public void doAction(Communicator communicator, String request, DatagramSocket udpClient) throws Exception {
         String response;
         System.out.println("Put Drone in "+request+" mode.");

@@ -15,13 +15,30 @@ public class Main{
         // Read Port Number from user
         System.out.println("Enter the port of the drone");
         int dronePort= telloInput.nextInt();
-
+        System.out.println("Enter the name of the file");
+        String fileName = telloInput.next();
+        int noOfCommands= telloInput.nextInt();
+        String[] arr= new String[noOfCommands];
+        System.out.println("Enter the commands");
+        for (int i=0;i<noOfCommands;i++){
+            arr[i]= telloInput.next();
+        }
+        String result= null;
+        if(arr.length>0){
+            StringBuilder sb= new StringBuilder();
+            for (String s: arr){
+                sb.append(s).append(",");
+            }
+            result= sb.deleteCharAt(sb.length() -1).toString();
+        }
+        FileWriter csvWriter= new FileWriter(fileName);
+        csvWriter.append(result);
 
 
         System.out.println("Enter the name of the file from which you want to load the Mission (Note: Kindly include the extension of the same)");
-        String fileName= telloInput.next();
+        //String fileName= telloInput.next();
 
-        String fileType=fileName.substring(fileName.indexOf(".")+1);
+        //String fileType=fileName.substring(fileName.indexOf(".")+1);
 
 
         Flier flier = new Flier();
