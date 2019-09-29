@@ -1,3 +1,5 @@
+package FileReader;
+
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
@@ -14,7 +16,7 @@ public class XMLReader {
         DocumentBuilderFactory dbFactory= DocumentBuilderFactory.newInstance();
         DocumentBuilder builder= dbFactory.newDocumentBuilder();
         Document doc = builder.parse(xmlFile);
-        NodeList nList= doc.getElementsByTagName("TelloCommands.Command");
+        NodeList nList= doc.getElementsByTagName("Message.Message.Command");
         for(int j=0; j<nList.getLength();j++){
             Node requestNode= nList.item(j);
             requestArray1.add(requestNode.getTextContent());

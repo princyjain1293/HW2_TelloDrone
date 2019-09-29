@@ -1,1 +1,1 @@
-command,takeoff,left 25,right 25,land
+command,takeoff,left,right,land

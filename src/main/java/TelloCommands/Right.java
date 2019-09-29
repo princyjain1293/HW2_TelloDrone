@@ -1,7 +1,9 @@
-public class Right implements Message {
-    public String doAction(){
-        String command=null;
-        return command;
+package TelloCommands;
 
+
+
+public class Right implements Message {
+    public String doAction(String command) {
+        return command;
     }
 }
