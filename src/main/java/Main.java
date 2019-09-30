@@ -25,17 +25,17 @@ public class Main{
         int dronePort = telloInput.nextInt();
         DatagramSocket udpClient = new DatagramSocket();
         udpClient.setSoTimeout(1000);
-        SimpleMission simpleMission= new SimpleMission();
-        SupersonicMission supersonicMission= new SupersonicMission();
-        BouncyMission bouncyMission=new BouncyMission();
-        Object[] missionArray= new Object[]{simpleMission,supersonicMission,bouncyMission};
+//        SimpleMission simpleMission= new SimpleMission();
+//        SupersonicMission supersonicMission= new SupersonicMission();
+//        BouncyMission bouncyMission=new BouncyMission();
+        //Object[] missionArray= new Object[]{simpleMission,supersonicMission,bouncyMission};
 
         Communicator communicator = new Communicator(ipAddress, dronePort, udpClient);
         System.out.println("Please select how you want to load your mission:\n" + "1. Select from existing Missions\n" + "2. Upload a csv or xml file\n" + "3. Customize your own mission");
         int choice = telloInput.nextInt();
-        int selectedMission = 0;
+        int selectedMission ;
         if (choice == 1) {
-            System.out.println("Select your Message.MessageCaller for the day...");
+            System.out.println("Select your Simulator.Message.MessageCaller for the day...");
             System.out.println("Press 1 for Simple Mission\n" + "Press 2 for Supersonic Mission\n" + "Press 3 for Bouncy Mission");
             selectedMission = telloInput.nextInt();
             Flier.SelectMission(selectedMission,communicator);

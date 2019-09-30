@@ -9,7 +9,7 @@ public class SupersonicMission implements Mission {
         MessageCaller.fly(requestArray,communicator);
 
 //        for(int i=0;i<requestArray.length;i++) {
-//            //System.out.println("You are going on a Supersonic Message.MessageCaller....");
+//            //System.out.println("You are going on a Supersonic Simulator.Message.MessageCaller....");
 //            SendReceive.SendReceiveCommon(requestArray[i], communicator);
 //        }
     }

@@ -10,7 +10,7 @@ public class SimpleMission implements Mission {
         String[] requestArray={CommandValuesCollection.COMMAND_MODE,CommandValuesCollection.TAKE_OFF,CommandValuesCollection.LEFT,CommandValuesCollection.RIGHT,CommandValuesCollection.LAND};
         MessageCaller.fly(requestArray,communicator);
 //        for(int i=0;i<requestArray.length;i++) {
-//            //System.out.println("You are going on a Supersonic Message.MessageCaller....");
+//            //System.out.println("You are going on a Supersonic Simulator.Message.MessageCaller....");
 //            SendReceive.SendReceiveCommon(requestArray[i], communicator);
 //        }
     }
