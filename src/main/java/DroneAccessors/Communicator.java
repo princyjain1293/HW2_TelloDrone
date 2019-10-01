@@ -54,18 +54,24 @@ public class Communicator{
             catch (SocketTimeoutException ex) {
                 datagramPacket = null;
             }
-            System.out.println(datagramPacket.getAddress());
-            System.out.println(datagramPacket.getPort());
+
+//            System.out.println(datagramPacket.getAddress());
+//            System.out.println(datagramPacket.getPort());
 
             if(destIPAddress==null){destIPAddress=datagramPacket.getAddress();}
             if(destPort==0){destPort=datagramPacket.getPort();}
-
+ //           if(destPort==8889) {
+ //               System.out.println(datagramPacket.getAddress());
+   //             System.out.println(datagramPacket.getPort());
+ //           }
             if (datagramPacket != null)
             {
-                System.out.println(String.format("Received %d bytes", datagramPacket.getLength()));
+                if(destPort==8889)
+                    System.out.println(String.format("Received %d bytes", datagramPacket.getLength()));
                 reply = new String(bytesReceived, 0, datagramPacket.getLength(), StandardCharsets.UTF_8);
-                System.out.println("Receive " + reply);
-//              Thread.sleep(1000);
+                if(destPort==8889)
+                    System.out.println("Receive " + reply);
+              Thread.sleep(1000);
             }
 
             if (reply == null)

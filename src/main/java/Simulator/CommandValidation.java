@@ -4,6 +4,7 @@ import Message.TelloFlip;
 import DroneAccessors.Communicator;
 import Mission.CommandValuesCollection;
 
+import java.io.IOException;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
@@ -15,6 +16,11 @@ public class CommandValidation extends Thread{
 
     public void run()
     {
+        try {
+            Runtime.getRuntime().exec(new String[]{"cmd","/K","Start"});
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         while(true)
         {
             try {
@@ -69,8 +75,10 @@ public class CommandValidation extends Thread{
                 else if (command.contains(CommandValuesCollection.LEFT)) {
                     int value = Integer.parseInt(command.substring(command.indexOf(" ") + 1));
                     System.out.println(value);
-                    if (value >= 20 && value <= 500)
+                    if (value >= 20 && value <= 500) {
                         serverCommunicator.Send(reply);
+
+                    }
                     else {
                         serverCommunicator.Send(error);
                         System.out.println("Entered value is not supported");

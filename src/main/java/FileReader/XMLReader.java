@@ -16,7 +16,7 @@ public class XMLReader {
         DocumentBuilderFactory dbFactory= DocumentBuilderFactory.newInstance();
         DocumentBuilder builder= dbFactory.newDocumentBuilder();
         Document doc = builder.parse(xmlFile);
-        NodeList nList= doc.getElementsByTagName("Simulator.Message.Simulator.Message.Command");
+        NodeList nList= doc.getElementsByTagName("Command");
         for(int j=0; j<nList.getLength();j++){
             Node requestNode= nList.item(j);
             requestArray1.add(requestNode.getTextContent());
