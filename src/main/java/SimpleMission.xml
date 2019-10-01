@@ -2,7 +2,7 @@
 <SimpleMission>
 	<Command>command</Command>
 	<Command>takeoff</Command>
-	<Command>left 25</Command>
-	<Command>right 25</Command>
+	<Command>left</Command>
+	<Command>right</Command>
 	<Command>land</Command>
 </SimpleMission>
