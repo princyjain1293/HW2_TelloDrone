@@ -1,13 +1,7 @@
 
 import DroneAccessors.Communicator;
 import DroneAccessors.Flier;
-import FileReader.FileCommand;
-import Mission.BouncyMission;
-import Mission.SimpleMission;
-import Mission.SupersonicMission;
-
 import java.net.DatagramSocket;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 
@@ -25,6 +19,8 @@ public class Main{
         int dronePort = telloInput.nextInt();
         DatagramSocket udpClient = new DatagramSocket();
         udpClient.setSoTimeout(1000);
+        Flier flier= new Flier();
+        flier.start();
 //        SimpleMission simpleMission= new SimpleMission();
 //        SupersonicMission supersonicMission= new SupersonicMission();
 //        BouncyMission bouncyMission=new BouncyMission();
@@ -38,13 +34,13 @@ public class Main{
             System.out.println("Select your Simulator.Message.MessageCaller for the day...");
             System.out.println("Press 1 for Simple Mission\n" + "Press 2 for Supersonic Mission\n" + "Press 3 for Bouncy Mission");
             selectedMission = telloInput.nextInt();
-            Flier.SelectMission(selectedMission,communicator);
+            flier.SelectMission(selectedMission,communicator);
 
         }
         else if(choice==2){
             System.out.println("Enter the name of the file from which you want to load the Mission (Note: Kindly include the extension of the same)");
             String fileName = telloInput.next();
-            Flier.SelectFile(fileName,communicator);
+            flier.SelectFile(fileName,communicator);
         }
         else{
             System.out.println("Enter the number of commands you want to execute");
@@ -54,7 +50,7 @@ public class Main{
             for(int j=0;j<noOfCommands;j++){
                 commandList[j]= telloInput.next();
             }
-            Flier.ManualCommands(commandList,communicator);
+            flier.ManualCommands(commandList,communicator);
         }
 
 

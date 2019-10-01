@@ -1,13 +1,39 @@
 package DroneAccessors;
-
-import java.net.*;
-
 import FileReader.FileCommand;
 import Message.MessageCaller;
 import Mission.*;
+import Simulator.DroneState;
+import Simulator.Status;
+
+import java.net.DatagramSocket;
+import java.net.SocketException;
 
 
-public class Flier{
+public class Flier extends Thread {
+    DatagramSocket statusSocket= new DatagramSocket(8890);
+    DroneState statusDroneState= new DroneState();
+    Communicator statusCommunicator;
+
+    public Flier() throws SocketException{
+        statusCommunicator= new Communicator(statusSocket);
+    }
+
+    @Override
+    public void run() {
+        String receivedStatus= null;
+        while(true){
+            try {
+                receivedStatus= statusCommunicator.Receive();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            Status status= new Status(receivedStatus);
+            statusDroneState.updateFlyingInfo(status);
+        }
+    }
+
+
+
     public static final void SelectMission(int selectedMission, Communicator communicator) throws Exception{
 
 
@@ -36,4 +62,6 @@ public class Flier{
     public static final void ManualCommands(String[] requestArray, Communicator communicator) throws Exception{
         MessageCaller.fly(requestArray,communicator);
     }
+
+
 }

@@ -10,8 +10,8 @@ public class Communicator{
     DatagramPacket datagramPacket;
 
 
-    String[] requestArray;
-    public Communicator(){};
+
+
 
     public Communicator(DatagramSocket udpClient){
         this.socket =udpClient;
@@ -41,6 +41,7 @@ public class Communicator{
 
 
     public String Receive () throws Exception{
+
             String reply = null;
             byte[] bytesReceived;
             bytesReceived = new byte[64];
@@ -53,6 +54,9 @@ public class Communicator{
             catch (SocketTimeoutException ex) {
                 datagramPacket = null;
             }
+            System.out.println(datagramPacket.getAddress());
+            System.out.println(datagramPacket.getPort());
+
             if(destIPAddress==null){destIPAddress=datagramPacket.getAddress();}
             if(destPort==0){destPort=datagramPacket.getPort();}
 
