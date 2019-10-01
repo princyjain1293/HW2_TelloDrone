@@ -1,9 +1,10 @@
 package DroneAccessors;
+import Common.Communicator;
 import FileReader.FileCommand;
 import Message.MessageCaller;
 import Mission.*;
-import Simulator.DroneState;
-import Simulator.Status;
+import Common.DroneState;
+import Common.Status;
 
 import java.net.DatagramSocket;
 import java.net.SocketException;

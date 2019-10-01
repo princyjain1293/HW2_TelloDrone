@@ -1,5 +1,5 @@
 
-import DroneAccessors.Communicator;
+import Common.Communicator;
 import DroneAccessors.Flier;
 import java.net.DatagramSocket;
 import java.util.Scanner;

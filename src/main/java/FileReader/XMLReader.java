@@ -9,8 +9,8 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 import java.util.ArrayList;
 
-public class XMLReader {
-    public String[] ReadXML(String fileName)throws Exception{
+public class XMLReader implements Reader {
+    public String[] FileReader(String fileName)throws Exception{
         ArrayList<String> requestArray1= new ArrayList<>();
         File xmlFile= new File(fileName);
         DocumentBuilderFactory dbFactory= DocumentBuilderFactory.newInstance();

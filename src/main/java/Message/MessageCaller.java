@@ -1,11 +1,11 @@
 package Message;
 
 
-import DroneAccessors.Communicator;
+import Common.Communicator;
 
 public class MessageCaller {
     public static final void fly(String[] command, Communicator communicator) throws Exception{
-        //DroneAccessors.Communicator communicator = new DroneAccessors.Communicator(ipAddress,dronePort);
+        //Common.Communicator communicator = new Common.Communicator(ipAddress,dronePort);
         String finalCommand= null;
         for(String request: command) {
             if (request.contains("left")) {

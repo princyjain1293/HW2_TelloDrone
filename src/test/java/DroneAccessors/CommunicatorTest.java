@@ -1,5 +1,6 @@
 package DroneAccessors;
 
+import Common.Communicator;
 import org.junit.Test;
 
 import java.net.InetAddress;

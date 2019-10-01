@@ -1,6 +1,6 @@
 package Message;
 
-import DroneAccessors.Communicator;
+import Common.Communicator;
 import Mission.CommandValuesCollection;
 import Mission.SendReceive;
 

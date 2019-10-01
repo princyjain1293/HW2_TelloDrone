@@ -1,5 +1,5 @@
 package Mission;
-import DroneAccessors.*;
+import Common.Communicator;
 
 
 public interface Mission {

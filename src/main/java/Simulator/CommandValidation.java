@@ -1,12 +1,13 @@
 package Simulator;
+import Common.DroneState;
+import Common.Status;
 import Message.TelloFlip;
 
-import DroneAccessors.Communicator;
+import Common.Communicator;
 import Mission.CommandValuesCollection;
 
 import java.io.IOException;
 import java.net.DatagramSocket;
-import java.net.InetAddress;
 
 public class CommandValidation extends Thread{
     DroneState droneState=new DroneState();

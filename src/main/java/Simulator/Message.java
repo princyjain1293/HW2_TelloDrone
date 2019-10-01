@@ -1,5 +1,7 @@
 package Simulator;
 
+import Common.Status;
+
 import java.nio.charset.StandardCharsets;
 
 public abstract class Message {

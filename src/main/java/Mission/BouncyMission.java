@@ -1,6 +1,6 @@
 package Mission;
 
-import DroneAccessors.Communicator;
+import Common.Communicator;
 import Message.MessageCaller;
 
 public class BouncyMission implements Mission {

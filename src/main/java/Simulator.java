@@ -1,6 +1,4 @@
-import DroneAccessors.Communicator;
-import Mission.CommandValuesCollection;
-import Message.TelloFlip;
+import Common.Communicator;
 import Simulator.*;
 
 import java.net.DatagramSocket;

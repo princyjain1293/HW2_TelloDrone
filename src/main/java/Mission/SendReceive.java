@@ -1,7 +1,7 @@
 package Mission;
 
-import DroneAccessors.Communicator;
-import Simulator.DroneState;
+import Common.Communicator;
+import Common.DroneState;
 
 public class SendReceive {
 

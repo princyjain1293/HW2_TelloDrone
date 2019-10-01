@@ -1,4 +1,4 @@
-package Simulator;
+package Common;
 
 import java.util.Date;
 
