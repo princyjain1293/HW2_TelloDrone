@@ -25,18 +25,11 @@ public class Communicator{
 
     public void Send(String request) throws Exception{
         byte[] bytesToSend;
-        // int maxRetries= 3;
-        // while(maxRetries>0){
         bytesToSend=request.getBytes(StandardCharsets.UTF_8);
-        //DatagramPacket datagramPacket;
 
         datagramPacket = new DatagramPacket(bytesToSend, bytesToSend.length, destIPAddress, destPort);
         socket.send(datagramPacket);
         System.out.println("Sent " + request + " bytes to " + destIPAddress.toString() + ":" + destPort);
-        //System.out.println("Remaining retries: " + maxRetries);
-        //maxRetries--;
-        //}
-
     }
 
 
@@ -76,7 +69,7 @@ public class Communicator{
 
             if (reply == null)
             {
-                return "Nothing received";}
+                return "Garbage value";}
             else if(reply.equals("ok")) {
 //              Thread.sleep(10000);
                 return reply;

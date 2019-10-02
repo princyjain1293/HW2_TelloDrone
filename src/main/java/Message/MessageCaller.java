@@ -5,8 +5,6 @@ import Common.Communicator;
 
 public class MessageCaller {
     public static final void fly(String[] command, Communicator communicator) throws Exception{
-        //Common.Communicator communicator = new Common.Communicator(ipAddress,dronePort);
-        String finalCommand= null;
         for(String request: command) {
             if (request.contains("left")) {
                 Left left = new Left();

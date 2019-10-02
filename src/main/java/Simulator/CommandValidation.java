@@ -1,54 +1,17 @@
 package Simulator;
 import Common.DroneState;
-import Common.Status;
 import Message.TelloFlip;
-
 import Common.Communicator;
 import Mission.CommandValuesCollection;
-
-import java.io.IOException;
-import java.net.DatagramSocket;
 
 public class CommandValidation extends Thread{
     DroneState droneState=new DroneState();
     String reply;
     String error;
-    Communicator communicatorStatus ;
 
-    public void run()
-    {
-        try {
-            Runtime.getRuntime().exec(new String[]{"cmd","/K","Start"});
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        while(true)
-        {
-            try {
-                Status status=new Status(droneState.getPitch(), droneState.getRoll(),droneState.getYaw(), droneState.getSpeedX(), droneState.getSpeedY(), droneState.getSpeedZ(),
-                        droneState.getLowTemperature(), droneState.getHighTemperature(), droneState.getFlightDistance(),droneState.getHeight(),
-                        droneState.getBatteryPercentage(),droneState.getBarometerMeasurement(),droneState.getMotorTime(),
-                        droneState.getAccelerationX(), droneState.getAccelerationY(), droneState.getAccelerationZ());
-                String statusReply= status.getMessageText();
-
-                communicatorStatus.Send(statusReply);
-                Thread.sleep(1000);
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-
-
-        }
-
-    }
-
-
-    public CommandValidation(String reply, String error) throws Exception{
+    public CommandValidation(String reply, String error){
         this.reply=reply;
         this.error=error;
-        DatagramSocket socket=new DatagramSocket();
-        communicatorStatus = new Communicator("127.0.0.1",8890, socket);
-
     }
     public void ValidateCommand(Communicator serverCommunicator,String command) throws Exception {
         if (command.equals(CommandValuesCollection.COMMAND_MODE)) {
@@ -75,7 +38,6 @@ public class CommandValidation extends Thread{
                 //Command received is left
                 else if (command.contains(CommandValuesCollection.LEFT)) {
                     int value = Integer.parseInt(command.substring(command.indexOf(" ") + 1));
-                    System.out.println(value);
                     if (value >= 20 && value <= 500) {
                         serverCommunicator.Send(reply);
 

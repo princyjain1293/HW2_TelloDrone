@@ -1,4 +1,4 @@
-package DroneAccessors;
+package Flier;
 
 import Common.Communicator;
 import org.junit.Test;

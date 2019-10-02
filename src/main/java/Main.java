@@ -1,6 +1,9 @@
 
 import Common.Communicator;
-import DroneAccessors.Flier;
+import Common.DroneState;
+import Flier.*;
+import Mission.*;
+
 import java.net.DatagramSocket;
 import java.util.Scanner;
 
@@ -20,11 +23,17 @@ public class Main{
         DatagramSocket udpClient = new DatagramSocket();
         udpClient.setSoTimeout(1000);
         Flier flier= new Flier();
-        flier.start();
-//        SimpleMission simpleMission= new SimpleMission();
-//        SupersonicMission supersonicMission= new SupersonicMission();
-//        BouncyMission bouncyMission=new BouncyMission();
-        //Object[] missionArray= new Object[]{simpleMission,supersonicMission,bouncyMission};
+        DatagramSocket statusSocket= new DatagramSocket(8890);
+        DroneState droneState= new DroneState();
+        Communicator statusCommmunicator= new Communicator(statusSocket);
+        FlierStatusThread flierthread= new FlierStatusThread(droneState,statusCommmunicator);
+        flierthread.start();
+        Mission[] mission=new Mission[3];
+        mission[0]= new SimpleMission();
+        mission[1]=new SupersonicMission();
+        mission[2]=new BouncyMission();
+
+
 
         Communicator communicator = new Communicator(ipAddress, dronePort, udpClient);
         System.out.println("Please select how you want to load your mission:\n" + "1. Select from existing Missions\n" + "2. Upload a csv or xml file\n" + "3. Customize your own mission");
@@ -34,8 +43,7 @@ public class Main{
             System.out.println("Select your Simulator.Message.MessageCaller for the day...");
             System.out.println("Press 1 for Simple Mission\n" + "Press 2 for Supersonic Mission\n" + "Press 3 for Bouncy Mission");
             selectedMission = telloInput.nextInt();
-            flier.SelectMission(selectedMission,communicator);
-
+            flier.SelectMission(mission[selectedMission-1],communicator);
         }
         else if(choice==2){
             System.out.println("Enter the name of the file from which you want to load the Mission (Note: Kindly include the extension of the same)");
