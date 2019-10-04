@@ -3,14 +3,9 @@ package Common;
 import java.io.IOException;
 import java.net.*;
 import java.nio.charset.StandardCharsets;
-import java.util.logging.FileHandler;
-import java.util.logging.Logger;
 
 
 public class Communicator{
-    FileHandler fh=new FileHandler("DroneStatusLogs.log");
-    private static final Logger logger = Logger.getLogger(Communicator.class.getName());
-
 
     InetAddress destIPAddress=null;
     int destPort=0;
@@ -33,7 +28,8 @@ public class Communicator{
 
         datagramPacket = new DatagramPacket(bytesToSend, bytesToSend.length, destIPAddress, destPort);
         socket.send(datagramPacket);
-        System.out.println("Sent " + request + " bytes to " + destIPAddress.toString() + ":" + destPort);
+        if(datagramPacket.getPort()!=8890)
+            System.out.println("Sent " + request + " bytes to " + destIPAddress.toString() + ":" + destPort);
     }
 
 
@@ -41,8 +37,8 @@ public class Communicator{
 
             String reply = null;
             byte[] bytesReceived;
-            bytesReceived = new byte[64];
-            datagramPacket = new DatagramPacket(bytesReceived, 64);
+            bytesReceived = new byte[150];
+            datagramPacket = new DatagramPacket(bytesReceived, 150);
 
 
             try {

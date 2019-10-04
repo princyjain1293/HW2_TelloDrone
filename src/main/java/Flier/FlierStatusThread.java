@@ -30,11 +30,13 @@ public class FlierStatusThread extends Thread{
             try {
                 receivedStatus= statusCommunicator.Receive();
                 logger.info(receivedStatus);
+                Status status= new Status(receivedStatus);
+                droneState.updateFlyingInfo(status);
+                Thread.sleep(100);
             } catch (Exception e) {
                 e.printStackTrace();
             }
-            Status status= new Status(receivedStatus);
-            droneState.updateFlyingInfo(status);
+
         }
     }
 }

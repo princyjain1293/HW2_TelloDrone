@@ -1,0 +1,628 @@
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:53 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:54 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:55 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:56 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:57 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:58 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:21:59 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:00 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:01 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:02 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:03 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:04 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:05 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:06 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:07 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:08 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:09 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:10 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:11 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:12 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:13 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:14 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:15 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:16 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:17 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:18 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:19 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:20 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:21 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:22 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:23 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:24 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:24 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:24 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:24 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:24 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00
+Oct 04, 2019 4:22:24 PM Simulator.SimulatorStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00

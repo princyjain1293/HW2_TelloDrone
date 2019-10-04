@@ -21,6 +21,7 @@ public class Simulator {
 
         while (true) {
             String command = serverCommunicator.Receive();
+            System.out.println("Received "+command+" from flier");
             commandValidation.ValidateCommand(serverCommunicator,command);
         }
     }
