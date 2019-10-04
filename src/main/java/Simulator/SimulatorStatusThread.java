@@ -38,8 +38,8 @@ public class SimulatorStatusThread extends Thread{
                         droneState.getAccelerationX(), droneState.getAccelerationY(), droneState.getAccelerationZ());
                 String statusReply= status.getMessageText();
                 logger.info(statusReply);
-
-                communicatorStatus.Send(statusReply);
+                if(droneState.isInCommandMode())
+                    communicatorStatus.Send(statusReply);
 
                 Thread.sleep(100);
             } catch (Exception e) {

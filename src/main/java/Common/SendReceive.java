@@ -11,7 +11,7 @@ public class SendReceive {
                 communicator.Send(command);
             }
             else {
-                if(droneState.getBatteryPercentage()>20 && droneState.getHighTemperature()<60) {
+                if(droneState.getBatteryPercentage()>20 || droneState.getHighTemperature()<60) {
                     System.out.println("Put drone in " + command + " mode");
                     communicator.Send(command);
                 }

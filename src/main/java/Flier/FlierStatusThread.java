@@ -28,11 +28,13 @@ public class FlierStatusThread extends Thread{
         String receivedStatus= null;
         while(true){
             try {
-                receivedStatus= statusCommunicator.Receive();
-                logger.info(receivedStatus);
-                Status status= new Status(receivedStatus);
-                droneState.updateFlyingInfo(status);
-                Thread.sleep(100);
+                if(droneState.isInCommandMode()) {
+                    receivedStatus = statusCommunicator.Receive();
+                    logger.info(receivedStatus);
+                    Status status = new Status(receivedStatus);
+                    droneState.updateFlyingInfo(status);
+                    Thread.sleep(100);
+                }
             } catch (Exception e) {
                 e.printStackTrace();
             }
