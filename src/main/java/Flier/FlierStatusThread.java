@@ -4,19 +4,32 @@ import Common.Communicator;
 import Common.DroneState;
 import Common.Status;
 
+import java.io.IOException;
+import java.util.logging.*;
+
 public class FlierStatusThread extends Thread{
     public DroneState droneState;
     Communicator statusCommunicator;
+    Logger logger;
+    FileHandler fh;
 
-    public FlierStatusThread(Communicator statusCommunicator,DroneState droneState){
+    public FlierStatusThread(Communicator statusCommunicator,DroneState droneState) throws IOException {
         this.droneState=droneState;
         this.statusCommunicator=statusCommunicator;
+        logger= Logger.getLogger(FlierStatusThread.class.getName());
+        fh= new FileHandler("C:/Users/princy/Desktop/Cs5700/HW2_TelloDrone/Logs/FlierLogs.txt");
+        SimpleFormatter simpleFormatter= new SimpleFormatter();
+        fh.setFormatter(simpleFormatter);
+        logger.setUseParentHandlers(false);
+        logger.addHandler(fh);
+
     }
     public void run() {
         String receivedStatus= null;
         while(true){
             try {
                 receivedStatus= statusCommunicator.Receive();
+                logger.info(receivedStatus);
             } catch (Exception e) {
                 e.printStackTrace();
             }

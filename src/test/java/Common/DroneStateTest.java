@@ -8,6 +8,9 @@ import java.io.IOException;
 import java.lang.*;
 import java.net.DatagramSocket;
 import java.net.SocketException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class DroneStateTest {
 
@@ -65,22 +68,54 @@ public class DroneStateTest {
     public void updateFlyingInfo() throws Exception {
         DroneState droneState= new DroneState();
         DatagramSocket ds= new DatagramSocket(8890);
-        Communicator communicator= new Communicator(ds);
-        String statusReceived= communicator.Receive();
+        //Communicator communicator= new Communicator(ds);
+        String statusReceived= "mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;vgz:0;templ:0;temph:40;tof:0;h:0;bat:30;baro:0.00;time:0;agx:0.00;agy:0.00;agz:0.00";
         Status status= new Status(statusReceived);
         droneState.updateFlyingInfo(status);
+        assertEquals(droneState.getPitch(),status.getPitch());
+        assertEquals(droneState.getRoll(),status.getRoll());
+        assertEquals(droneState.getYaw(),status.getYaw());
+        assertEquals(droneState.getSpeedX(),status.getSpeedX());
+        assertEquals(droneState.getSpeedY(),status.getSpeedY());
+        assertEquals(droneState.getSpeedZ(),status.getSpeedZ());
+        assertEquals(droneState.getLowTemperature(),status.getLowTemperature());
+        assertEquals(droneState.getHighTemperature(),status.getHighTemperature());
+        assertEquals(droneState.getFlightDistance(),status.getFlightDistance());
+        assertEquals(droneState.getHeight(),status.getHeight());
+
+        assertEquals(droneState.getBatteryPercentage(),status.getBatteryPercentage());
+        assertEquals(droneState.getBarometerMeasurement(),status.getBarometerMeasurement());
+        assertEquals(droneState.getMotorTime(),status.getMotorTime());
+
+        assertEquals(droneState.getAccelerationX(),status.getAccelerationX());
+        assertEquals(droneState.getAccelerationY(),status.getAccelerationY());
+        assertEquals(droneState.getAccelerationZ(),status.getAccelerationZ());
     }
 
-    @Test
-    public void getStateTimestamp() {
-    }
+//    @Test
+//    public void getStateTimestamp() throws ParseException {
+//        DroneState droneState= new DroneState();
+//        String date= "2019-10-04";
+//        SimpleDateFormat sDF=new SimpleDateFormat(date);
+//        Date timeStamp=new Date();
+//        assertEquals(timeStamp,droneState.getStateTimestamp());
+//    }
 
     @Test
     public void move() {
+        DroneState droneState=new DroneState();
+        droneState.move(0.0,0.0,0.0);
+        Double value=0.0;
+        assertEquals(value,droneState.getPositionX());
+        assertEquals(value,droneState.getPositionY());
+        assertEquals(value,droneState.getPositionZ());
     }
 
     @Test
     public void rotate() {
+        DroneState droneState= new DroneState();
+        droneState.rotate(0);
+        assertEquals(0,droneState.getOrientation());
     }
 
     @Test
@@ -160,6 +195,9 @@ public class DroneStateTest {
     }
 
     @Test
-    public void getOrientation() {
+    public void getOrientationTest() {
+        DroneState droneState= new DroneState();
+        int value=0;
+        assertEquals(value,droneState.getOrientation());
     }
 }

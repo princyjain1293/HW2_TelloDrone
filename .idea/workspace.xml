@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="374bd294-ff41-4715-824c-0d5d771261f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Message/LeftTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Common/MessageCallerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Common/Communicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Common/Communicator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Common/DroneState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Common/DroneState.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/Common/DroneStateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Common/DroneStateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/Flier/CommunicatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Common/Communicator.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Common/Communicator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Common/Communicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Common/Communicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Common/DroneState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Common/DroneState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Common/SendReceive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Common/SendReceive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Common/DroneStateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Common/DroneStateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Common/SendReceiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Common/SendReceiveTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Flier/CommunicatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Common/CommunicatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,31 +24,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/HW2_TelloDrone$SendReceiveTest.ic" NAME="SendReceiveTest Coverage Results" MODIFIED="1570209659749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Common.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test__3_.ic" NAME="All in HW2_TelloDrone.test (3) Coverage Results" MODIFIED="1570140769854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/HW2_TelloDrone$DroneStateTest.ic" NAME="DroneStateTest Coverage Results" MODIFIED="1570213870248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Common.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$CommunicatorTest.ic" NAME="CommunicatorTest Coverage Results" MODIFIED="1570209172894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Common.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test.ic" NAME="All in HW2_TelloDrone.test Coverage Results" MODIFIED="1570209511496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$SendReceiveTest_sendReceiveCommonTest.ic" NAME="SendReceiveTest.sendReceiveCommonTest Coverage Results" MODIFIED="1570209745539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Common.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test__5_.ic" NAME="All in HW2_TelloDrone.test (5) Coverage Results" MODIFIED="1570134003867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$Main.ic" NAME="Main Coverage Results" MODIFIED="1569912774111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test__4_.ic" NAME="All in HW2_TelloDrone.test (4) Coverage Results" MODIFIED="1569913528594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test__2_.ic" NAME="All in HW2_TelloDrone.test (2) Coverage Results" MODIFIED="1570140509993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HW2_TelloDrone$SendReceiveTest.ic" NAME="SendReceiveTest Coverage Results" MODIFIED="1570209659749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Common.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HW2_TelloDrone$DroneStateTest.ic" NAME="DroneStateTest Coverage Results" MODIFIED="1570223930776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Common.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HW2_TelloDrone$MessageCallerTest.ic" NAME="MessageCallerTest Coverage Results" MODIFIED="1570224520802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Common.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test.ic" NAME="All in HW2_TelloDrone.test Coverage Results" MODIFIED="1570209511496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test__5_.ic" NAME="All in HW2_TelloDrone.test (5) Coverage Results" MODIFIED="1570134003867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$All_in_HW2_TelloDrone_test__1_.ic" NAME="All in HW2_TelloDrone.test (1) Coverage Results" MODIFIED="1569912571795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HW2_TelloDrone$Message_in_HW2_TelloDrone_test.ic" NAME="Message in HW2_TelloDrone.test Coverage Results" MODIFIED="1570210105542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Message.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="172" />
+    <option name="myElementSize" value="84" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -76,48 +77,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Common/DroneState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1062">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#4704#4705#0" expanded="true" />
-                <element signature="e#4744#4745#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Common/DroneStateTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Common/Status.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
+            <state relative-caret-position="-268">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="19" column="93" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Common/MessageCaller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Common/MessageCallerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Common/Communicator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,6 +146,8 @@
       <find>update</find>
       <find>left</find>
       <find>resetState</find>
+      <find>getPositionX</find>
+      <find>getOrientation</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Mission.java" />
         <option value="$PROJECT_DIR$/src/main/java/Flier.java" />
         <option value="$PROJECT_DIR$/src/main/java/CommandValuesCollection.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mission/AbstractSendReceive.java" />
@@ -182,10 +189,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Flier/CommunicatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Message/CommandTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Common/CommandValuesCollectionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Common/DroneState.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Common/SendReceive.java" />
         <option value="$PROJECT_DIR$/src/main/java/Message/Command.java" />
         <option value="$PROJECT_DIR$/src/main/java/Message/Down.java" />
         <option value="$PROJECT_DIR$/src/main/java/Message/Flip.java" />
@@ -198,7 +202,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Simulator/CommandValidation.java" />
         <option value="$PROJECT_DIR$/src/test/java/Message/LeftTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Common/SendReceiveTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Common/SendReceive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Common/DroneState.java" />
         <option value="$PROJECT_DIR$/src/test/java/Common/DroneStateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Common/MessageCallerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java" />
       </list>
     </option>
   </component>
@@ -266,14 +274,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HW2_TelloDrone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HW2_TelloDrone" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Message" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -285,7 +285,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570214575844" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570226023899" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -294,8 +294,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="Message" />
       <recent name="Common" />
+      <recent name="Message" />
       <recent name="DroneAccessors" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -320,7 +320,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DroneStateTest">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW2_TelloDrone.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Simulator" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Simulator" />
       <method v="2">
@@ -330,14 +337,6 @@
     <configuration name="Simulator" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Simulator" />
       <module name="HW2_TelloDrone.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in HW2_TelloDrone.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HW2_TelloDrone.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -371,7 +370,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SendReceiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MessageCallerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HW2_TelloDrone.test" />
       <extension name="coverage">
         <pattern>
@@ -380,7 +379,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Common" />
-      <option name="MAIN_CLASS_NAME" value="Common.SendReceiveTest" />
+      <option name="MAIN_CLASS_NAME" value="Common.MessageCallerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -404,19 +403,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Simulator" />
-      <item itemvalue="JUnit.All in HW2_TelloDrone.test" />
-      <item itemvalue="JUnit.SendReceiveTest" />
       <item itemvalue="JUnit.SendReceiveTest.sendReceiveCommonTest" />
       <item itemvalue="JUnit.Message in HW2_TelloDrone.test" />
       <item itemvalue="JUnit.DroneStateTest" />
+      <item itemvalue="JUnit.MessageCallerTest" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MessageCallerTest" />
         <item itemvalue="JUnit.DroneStateTest" />
         <item itemvalue="JUnit.Message in HW2_TelloDrone.test" />
         <item itemvalue="JUnit.SendReceiveTest.sendReceiveCommonTest" />
-        <item itemvalue="JUnit.SendReceiveTest" />
-        <item itemvalue="JUnit.All in HW2_TelloDrone.test" />
       </list>
     </recent_temporary>
   </component>
@@ -434,41 +433,72 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Message_in_HW2_TelloDrone_test - 2019.10.04 at 11h 29m 57s.xml">
-      <configuration name="Message in HW2_TelloDrone.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 11h 38m 23s.xml">
+    <history-entry file="DroneStateTest - 2019.10.04 at 14h 52m 11s.xml">
       <configuration name="DroneStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 11h 41m 27s.xml">
+    <history-entry file="DroneStateTest - 2019.10.04 at 15h 03m 56s.xml">
       <configuration name="DroneStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 11h 52m 22s.xml">
+    <history-entry file="DroneStateTest - 2019.10.04 at 15h 05m 39s.xml">
       <configuration name="DroneStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 11h 56m 59s.xml">
+    <history-entry file="DroneStateTest - 2019.10.04 at 15h 07m 52s.xml">
       <configuration name="DroneStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 11h 58m 51s.xml">
+    <history-entry file="DroneStateTest - 2019.10.04 at 15h 10m 55s.xml">
       <configuration name="DroneStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 12h 03m 54s.xml">
+    <history-entry file="DroneStateTest - 2019.10.04 at 15h 13m 30s.xml">
       <configuration name="DroneStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 12h 13m 44s.xml">
+    <history-entry file="DroneStateTest - 2019.10.04 at 15h 19m 37s.xml">
       <configuration name="DroneStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 12h 21m 18s.xml">
-      <configuration name="DroneStateTest" configurationId="JUnit" />
+    <history-entry file="MessageCallerTest - 2019.10.04 at 15h 21m 48s.xml">
+      <configuration name="MessageCallerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DroneStateTest - 2019.10.04 at 12h 34m 10s.xml">
-      <configuration name="DroneStateTest" configurationId="JUnit" />
+    <history-entry file="MessageCallerTest - 2019.10.04 at 15h 28m 07s.xml">
+      <configuration name="MessageCallerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageCallerTest - 2019.10.04 at 15h 29m 37s.xml">
+      <configuration name="MessageCallerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.38134205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.38134205" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.26399395" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -497,48 +527,10 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32980332" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23676248" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.38134205" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.38134205" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" weight="0.32980332" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.26399395" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/TelloCommands/Right.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/XMLReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -708,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Common/MessageCaller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Common/CommandValuesCollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -746,13 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Common/SendReceive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -848,16 +826,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Common/CommunicatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Common/SendReceiveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -902,27 +870,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Common/Status.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Common/SendReceive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="296">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Common/CommunicatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Common/DroneState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="104" column="7" lean-forward="true" selection-start-line="102" selection-start-column="6" selection-end-line="104" selection-end-column="7" />
+          <folding>
+            <element signature="e#3601#3602#0" expanded="true" />
+            <element signature="e#3633#3634#0" expanded="true" />
+            <element signature="e#3669#3670#0" expanded="true" />
+            <element signature="e#3701#3702#0" expanded="true" />
+            <element signature="e#3737#3738#0" expanded="true" />
+            <element signature="e#3769#3770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Common/DroneStateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="101" column="7" lean-forward="true" selection-start-line="94" selection-start-column="6" selection-end-line="101" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -939,13 +922,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Common/DroneState.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Common/MessageCallerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1062">
+        <state relative-caret-position="136">
+          <caret line="13" column="64" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Common/MessageCaller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Common/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Flier/FlierStatusThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="19" column="93" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
           <folding>
-            <element signature="e#4704#4705#0" expanded="true" />
-            <element signature="e#4744#4745#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

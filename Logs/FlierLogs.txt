@@ -1,0 +1,42 @@
+Oct 04, 2019 3:53:51 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:52 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:53 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:54 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:55 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:56 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:57 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:58 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:53:59 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:00 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:01 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:02 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:03 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:04 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:05 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:06 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:07 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:08 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:09 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:10 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v
+Oct 04, 2019 3:54:11 PM Flier.FlierStatusThread run
+INFO: mid:-1;x:0;y:0;z:0;mpry:0,0,0;pitch:0;roll:0;yaw:0;vgx:0;vgy:0;v

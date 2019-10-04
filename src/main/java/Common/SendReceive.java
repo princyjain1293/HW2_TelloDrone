@@ -20,5 +20,7 @@ public class SendReceive {
            String  reply=communicator.Receive();
         System.out.println("Response received from drone is: "+ reply);
             return reply;
+
+
     }
 }
