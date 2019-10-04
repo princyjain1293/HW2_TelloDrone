@@ -1,10 +1,11 @@
-package Message;
+package Common;
 
 
 import Common.Communicator;
+import Message.*;
 
 public class MessageCaller {
-    public static final void fly(String[] command, Communicator communicator) throws Exception{
+    public static final void commandSelecter(String[] command, Communicator communicator) throws Exception{
         for(String request: command) {
             if (request.contains("left")) {
                 Left left = new Left();

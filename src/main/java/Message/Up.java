@@ -1,8 +1,8 @@
 package Message;
 
 import Common.Communicator;
-import Mission.CommandValuesCollection;
-import Mission.SendReceive;
+import Common.CommandValuesCollection;
+import Common.SendReceive;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class Up implements Message {
         int xx= cin.nextInt();
         String command= CommandValuesCollection.UP +" "+xx;
 
-        SendReceive.SendReceiveCommon(command,communicator);
+        SendReceive.sendReceiveCommon(command,communicator);
 
     }
 }

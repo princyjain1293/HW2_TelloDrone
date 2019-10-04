@@ -10,7 +10,7 @@ import java.io.File;
 import java.util.ArrayList;
 
 public class XMLReader implements Reader {
-    public String[] FileReader(String fileName)throws Exception{
+    public String[] fileReader(String fileName)throws Exception{
         ArrayList<String> requestArray1= new ArrayList<>();
         File xmlFile= new File(fileName);
         DocumentBuilderFactory dbFactory= DocumentBuilderFactory.newInstance();

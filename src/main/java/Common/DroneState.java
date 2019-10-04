@@ -201,7 +201,7 @@ public class DroneState {
 
     public int getOrientation() { return orientation; }
 
-    private void resetState() {
+    public void resetState() {
         videoStreamOn = false;
         hasTakenOff = false;
         stateTimestamp = new Date();
@@ -220,15 +220,20 @@ public class DroneState {
         speedY = 0;
         speedZ = 0;
         lowTemperature = 0;
-        highTemperature = 0;
+        highTemperature = 40;
         flightDistance = 0;
         height = 0;
-        batteryPercentage = 0;
+        batteryPercentage = 30;
         barometerMeasurement = 0.0;
         motorTime = 0;
         accelerationX = 0.0;
         accelerationY = 0.0;
         accelerationZ = 0.0;
         orientation = 0;
+    }
+    public String getPosition()
+    {
+        String reply="getPositionX(): "+getPositionX()+"\ngetPositionY(): "+getPositionY()+"\ngetPositionZ(): "+getPositionZ()+"\ngetOrientation(): "+getOrientation();
+        return reply;
     }
 }

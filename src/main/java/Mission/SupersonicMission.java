@@ -1,16 +1,24 @@
 package Mission;
 
+import Common.CommandValuesCollection;
 import Common.Communicator;
-import Message.*;
+import Common.MessageCaller;
 
-public class SupersonicMission implements Mission {
-    public void fly(Communicator communicator) throws Exception {
-        String[] requestArray={CommandValuesCollection.COMMAND_MODE,CommandValuesCollection.TAKE_OFF,CommandValuesCollection.FLIP,CommandValuesCollection.RIGHT,CommandValuesCollection.FLIP,CommandValuesCollection.LEFT,CommandValuesCollection.LAND};
-        MessageCaller.fly(requestArray,communicator);
+public class SupersonicMission extends Mission {
 
-//        for(int i=0;i<requestArray.length;i++) {
-//            //System.out.println("You are going on a Supersonic Simulator.Message.MessageCaller....");
-//            SendReceive.SendReceiveCommon(requestArray[i], communicator);
-//        }
+
+    @Override
+    public void executeCommand(Communicator communicator) throws Exception {
+        String[] requestArray={CommandValuesCollection.FLIP,CommandValuesCollection.RIGHT,CommandValuesCollection.FLIP,CommandValuesCollection.LEFT};
+        MessageCaller.commandSelecter(requestArray,communicator);
     }
+//    public void fly(Communicator communicator) throws Exception {
+//        String[] requestArray={CommandValuesCollection.COMMAND_MODE,CommandValuesCollection.TAKE_OFF,CommandValuesCollection.FLIP,CommandValuesCollection.RIGHT,CommandValuesCollection.FLIP,CommandValuesCollection.LEFT,CommandValuesCollection.LAND};
+//        MessageCaller.commandSelecter(requestArray,communicator);
+//
+////        for(int i=0;i<requestArray.length;i++) {
+////            //System.out.println("You are going on a Supersonic Simulator.Message.MessageCaller....");
+////            SendReceive.sendReceiveCommon(requestArray[i], communicator);
+////        }
+//    }
 }

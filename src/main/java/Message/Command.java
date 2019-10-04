@@ -1,14 +1,17 @@
 package Message;
 
 import Common.Communicator;
-import Mission.CommandValuesCollection;
-import Mission.SendReceive;
+import Common.CommandValuesCollection;
+import Common.SendReceive;
 
 public class Command implements Message {
     String command;
-    public void doAction(Communicator communicator) throws Exception{
+//    public void Validation(){
+//
+//    }
+    public final void doAction(Communicator communicator) throws Exception{
         command=CommandValuesCollection.COMMAND_MODE;
-        SendReceive.SendReceiveCommon(command, communicator);
+        SendReceive.sendReceiveCommon(command, communicator);
     }
-    public String getCommand(){return command;}
+    public String getCommand(){return CommandValuesCollection.COMMAND_MODE;}
 }

@@ -2,7 +2,7 @@ package Simulator;
 import Common.DroneState;
 import Message.TelloFlip;
 import Common.Communicator;
-import Mission.CommandValuesCollection;
+import Common.CommandValuesCollection;
 
 public class CommandValidation extends Thread{
     DroneState droneState=new DroneState();

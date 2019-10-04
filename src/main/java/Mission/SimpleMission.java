@@ -1,17 +1,15 @@
 package Mission;
 
 
+import Common.CommandValuesCollection;
 import Common.Communicator;
-import Message.MessageCaller;
+import Common.MessageCaller;
 
-public class SimpleMission implements Mission {
-    public void fly(Communicator communicator) throws Exception {
-        System.out.println("You are going on a simple mission....");
-        String[] requestArray={CommandValuesCollection.COMMAND_MODE,CommandValuesCollection.TAKE_OFF,CommandValuesCollection.LEFT,CommandValuesCollection.RIGHT,CommandValuesCollection.LAND};
-        MessageCaller.fly(requestArray,communicator);
-//        for(int i=0;i<requestArray.length;i++) {
-//            //System.out.println("You are going on a Supersonic Simulator.Message.MessageCaller....");
-//            SendReceive.SendReceiveCommon(requestArray[i], communicator);
-//        }
+public class SimpleMission extends Mission {
+
+    @Override
+    public void executeCommand(Communicator communicator) throws Exception {
+        String[] requestArray={CommandValuesCollection.LEFT,CommandValuesCollection.RIGHT};
+        MessageCaller.commandSelecter(requestArray,communicator);
     }
 }

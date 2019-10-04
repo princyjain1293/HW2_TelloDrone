@@ -5,11 +5,11 @@ import Common.DroneState;
 import Common.Status;
 
 public class FlierStatusThread extends Thread{
-    DroneState statusDroneState;
+    public DroneState droneState;
     Communicator statusCommunicator;
 
-    public FlierStatusThread(DroneState statusDroneState, Communicator statusCommunicator){
-        this.statusDroneState=statusDroneState;
+    public FlierStatusThread(Communicator statusCommunicator,DroneState droneState){
+        this.droneState=droneState;
         this.statusCommunicator=statusCommunicator;
     }
     public void run() {
@@ -21,7 +21,7 @@ public class FlierStatusThread extends Thread{
                 e.printStackTrace();
             }
             Status status= new Status(receivedStatus);
-            statusDroneState.updateFlyingInfo(status);
+            droneState.updateFlyingInfo(status);
         }
     }
 }

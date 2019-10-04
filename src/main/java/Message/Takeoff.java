@@ -1,13 +1,14 @@
 package Message;
 
 import Common.Communicator;
-import Mission.CommandValuesCollection;
-import Mission.SendReceive;
+import Common.CommandValuesCollection;
+import Common.SendReceive;
 
 public class Takeoff implements Message {
     @Override
-    public void doAction(Communicator communicator) throws Exception{
-        SendReceive.SendReceiveCommon(CommandValuesCollection.TAKE_OFF,communicator);
+    public final void doAction(Communicator communicator) throws Exception{
+
+        SendReceive.sendReceiveCommon(CommandValuesCollection.TAKE_OFF,communicator);
 
     }
 }

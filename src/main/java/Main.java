@@ -26,7 +26,7 @@ public class Main{
         DatagramSocket statusSocket= new DatagramSocket(8890);
         DroneState droneState= new DroneState();
         Communicator statusCommmunicator= new Communicator(statusSocket);
-        FlierStatusThread flierthread= new FlierStatusThread(droneState,statusCommmunicator);
+        FlierStatusThread flierthread= new FlierStatusThread(statusCommmunicator,droneState);
         flierthread.start();
         Mission[] mission=new Mission[3];
         mission[0]= new SimpleMission();
@@ -40,7 +40,7 @@ public class Main{
         int choice = telloInput.nextInt();
         int selectedMission ;
         if (choice == 1) {
-            System.out.println("Select your Simulator.Message.MessageCaller for the day...");
+            System.out.println("Select your Mission for the day...");
             System.out.println("Press 1 for Simple Mission\n" + "Press 2 for Supersonic Mission\n" + "Press 3 for Bouncy Mission");
             selectedMission = telloInput.nextInt();
             flier.SelectMission(mission[selectedMission-1],communicator);

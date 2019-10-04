@@ -2,8 +2,8 @@ package Message;
 
 import Common.Communicator;
 import Common.DroneState;
-import Mission.CommandValuesCollection;
-import Mission.SendReceive;
+import Common.CommandValuesCollection;
+import Common.SendReceive;
 
 import java.util.Scanner;
 
@@ -25,7 +25,7 @@ public class Flip implements Message {
                 int xx= cin.nextInt();
                 command= CommandValuesCollection.LEFT+" "+xx;
             }
-            SendReceive.SendReceiveCommon(command,communicator);
+            SendReceive.sendReceiveCommon(command,communicator);
         }
         else System.out.println("Drone is not in command mode");
     }

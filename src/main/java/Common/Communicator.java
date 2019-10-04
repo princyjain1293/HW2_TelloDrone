@@ -9,10 +9,6 @@ public class Communicator{
     DatagramSocket socket;
     DatagramPacket datagramPacket;
 
-
-
-
-
     public Communicator(DatagramSocket udpClient){
         this.socket =udpClient;
     }
@@ -81,6 +77,6 @@ public class Communicator{
     }
     public InetAddress getDestIPAddress(){return destIPAddress;}
     public int getDestPort(){return destPort;}
-
+    public DatagramSocket getDatagramSocket(){return socket;}
 
 }

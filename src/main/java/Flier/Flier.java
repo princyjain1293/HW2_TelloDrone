@@ -1,7 +1,7 @@
 package Flier;
 import Common.Communicator;
 import FileReader.FileCommand;
-import Message.MessageCaller;
+import Common.MessageCaller;
 import Mission.*;
 
 public class Flier extends Thread {
@@ -16,10 +16,10 @@ public class Flier extends Thread {
     }
     public static final void SelectFile(String fileName,Communicator communicator) throws Exception{
 
-        MessageCaller.fly(FileCommand.selectFileType(fileName),communicator);
+        MessageCaller.commandSelecter(FileCommand.selectFileType(fileName),communicator);
     }
     public static final void ManualCommands(String[] requestArray, Communicator communicator) throws Exception{
-        MessageCaller.fly(requestArray,communicator);
+        MessageCaller.commandSelecter(requestArray,communicator);
     }
 
 
