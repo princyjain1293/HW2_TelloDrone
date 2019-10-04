@@ -1,4 +1,4 @@
-package Flier;
+package Common;
 
 import Common.Communicator;
 import org.junit.Test;

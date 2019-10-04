@@ -18,9 +18,11 @@ public class SendReceiveTest {
 
         Communicator communicator= new Communicator("127.0.0.1",8889,udpClient);
         String command1= CommandValuesCollection.COMMAND_MODE;
-        String command2= CommandValuesCollection.LAND;
+        String command2= CommandValuesCollection.TAKE_OFF;
+        String command3=CommandValuesCollection.LAND;
         SendReceive.sendReceiveCommon(command1,communicator);
         SendReceive.sendReceiveCommon(command2,communicator);
+        SendReceive.sendReceiveCommon(command3,communicator);
 
     }
 }

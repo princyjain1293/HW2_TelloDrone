@@ -4,6 +4,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+import java.io.IOException;
+import java.lang.*;
+import java.net.DatagramSocket;
+import java.net.SocketException;
+
 public class DroneStateTest {
 
     @Test
@@ -12,7 +17,11 @@ public class DroneStateTest {
     }
 
     @Test
-    public void setInCommandMode() {
+    public void setInCommandModeTest() {
+        DroneState droneState= new DroneState();
+        assertEquals(false, droneState.isInCommandMode());
+        droneState.setInCommandMode(true);
+        droneState.resetState();
     }
 
     @Test
@@ -21,6 +30,10 @@ public class DroneStateTest {
 
     @Test
     public void setHasTakenOff() {
+        DroneState droneState= new DroneState();
+        assertEquals(false,droneState.hasTakenOff());
+        droneState.setHasTakenOff(true);
+        droneState.resetState();
     }
 
     @Test
@@ -29,6 +42,10 @@ public class DroneStateTest {
 
     @Test
     public void setVideoStreamOn() {
+        DroneState droneState= new DroneState();
+        assertEquals(false,droneState.isVideoStreamOn());
+        droneState.setVideoStreamOn(true);
+
     }
 
     @Test
@@ -37,10 +54,21 @@ public class DroneStateTest {
 
     @Test
     public void setCurrentFlightTime() {
+        DroneState droneState= new DroneState();
+        Double time=0.0;
+        assertEquals(time,droneState.getCurrentFlightTime());
+
+        droneState.setCurrentFlightTime(12.5);
     }
 
     @Test
-    public void updateFlyingInfo() {
+    public void updateFlyingInfo() throws Exception {
+        DroneState droneState= new DroneState();
+        DatagramSocket ds= new DatagramSocket(8890);
+        Communicator communicator= new Communicator(ds);
+        String statusReceived= communicator.Receive();
+        Status status= new Status(statusReceived);
+        droneState.updateFlyingInfo(status);
     }
 
     @Test

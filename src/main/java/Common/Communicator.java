@@ -1,15 +1,23 @@
 package Common;
 
+import java.io.IOException;
 import java.net.*;
 import java.nio.charset.StandardCharsets;
+import java.util.logging.FileHandler;
+import java.util.logging.Logger;
+
 
 public class Communicator{
+    FileHandler fh=new FileHandler("DroneStatusLogs.log");
+    private static final Logger logger = Logger.getLogger(Communicator.class.getName());
+
+
     InetAddress destIPAddress=null;
     int destPort=0;
     DatagramSocket socket;
     DatagramPacket datagramPacket;
 
-    public Communicator(DatagramSocket udpClient){
+    public Communicator(DatagramSocket udpClient) throws IOException {
         this.socket =udpClient;
     }
     public Communicator (String ipAddress, int destPort, DatagramSocket udpClient) throws Exception{
@@ -44,15 +52,10 @@ public class Communicator{
                 datagramPacket = null;
             }
 
-//            System.out.println(datagramPacket.getAddress());
-//            System.out.println(datagramPacket.getPort());
 
             if(destIPAddress==null){destIPAddress=datagramPacket.getAddress();}
             if(destPort==0){destPort=datagramPacket.getPort();}
- //           if(destPort==8889) {
- //               System.out.println(datagramPacket.getAddress());
-   //             System.out.println(datagramPacket.getPort());
- //           }
+
             if (datagramPacket != null)
             {
                 if(destPort==8889)
