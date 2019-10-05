@@ -7,9 +7,9 @@ public class SendReceive {
 
     public static final String sendReceiveCommon(String command, Communicator communicator) throws Exception {
         DroneState droneState = new DroneState();
-        Scanner in = new Scanner(System.in);
-        System.out.println("enter number of retries");
-        int maxRetries = in.nextInt();
+//        Scanner in = new Scanner(System.in);
+//        System.out.println("enter number of retries");
+        int maxRetries = 3;
         String reply=null;
 
         while (maxRetries > 0)

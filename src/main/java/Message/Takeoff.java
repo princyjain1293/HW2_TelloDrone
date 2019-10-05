@@ -14,4 +14,5 @@ public class Takeoff implements Message {
             droneState.setHasTakenOff(true);
         }
     }
+    public String getCommand(){return CommandValuesCollection.TAKE_OFF;}
 }

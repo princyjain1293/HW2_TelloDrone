@@ -47,12 +47,12 @@ public class Main{
             System.out.println("Select your Mission for the day...");
             System.out.println("Press 1 for Simple Mission\n" + "Press 2 for Supersonic Mission\n" + "Press 3 for Bouncy Mission");
             selectedMission = telloInput.nextInt();
-            flier.SelectMission(mission[selectedMission-1],communicator,droneState);
+            flier.selectMission(mission[selectedMission-1],communicator,droneState);
         }
         else if(choice==2){
             System.out.println("Enter the name of the file from which you want to load the Mission (Note: Kindly include the extension of the same)");
             String fileName = telloInput.next();
-            flier.SelectFile(fileName,communicator,droneState);
+            flier.selectFile(fileName,communicator,droneState);
         }
         else{
             System.out.println("Enter the number of commands you want to execute");
@@ -62,7 +62,7 @@ public class Main{
             for(int j=0;j<noOfCommands;j++){
                 commandList[j]= telloInput.next();
             }
-            flier.ManualCommands(commandList,communicator,droneState);
+            flier.manualCommands(commandList,communicator,droneState);
         }
 
 

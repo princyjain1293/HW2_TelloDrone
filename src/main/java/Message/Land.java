@@ -13,4 +13,5 @@ public class Land implements Message {
             droneState.resetState();
         }
     }
+    public String getCommand(){return CommandValuesCollection.LAND;}
 }

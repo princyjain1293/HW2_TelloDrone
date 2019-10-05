@@ -10,7 +10,7 @@ public class SimpleMission extends Mission {
 
     @Override
     public void executeCommand(Communicator communicator, DroneState droneState) throws Exception {
-        String[] requestArray={CommandValuesCollection.LEFT,CommandValuesCollection.RIGHT};
+        String[] requestArray={};
         MessageCaller.commandSelecter(requestArray,communicator,droneState);
     }
 }
