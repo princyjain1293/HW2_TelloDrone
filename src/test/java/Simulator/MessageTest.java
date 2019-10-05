@@ -22,6 +22,11 @@ public class MessageTest {
     }
 
 
+    @Test
+    public void getMessageText1() {
+    }
 
-
+//    @Test
+//    public void toString() {
+//    }
 }

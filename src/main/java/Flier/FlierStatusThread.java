@@ -41,4 +41,6 @@ public class FlierStatusThread extends Thread{
 
         }
     }
+    public DroneState getDroneState(){return droneState;}
+    public Communicator getStatusCommunicator(){return statusCommunicator;}
 }
