@@ -8,9 +8,9 @@ import Common.SendReceive;
 import java.util.Scanner;
 
 public class Flip implements Message {
-    public void doAction(Communicator communicator) throws Exception{
+    public void doAction(Communicator communicator, DroneState droneState) throws Exception{
         String command = null;
-        DroneState droneState= new DroneState();
+        //DroneState droneState= new DroneState();
         if(droneState.isInCommandMode()) {
             if((droneState.getBatteryPercentage())>20) {
                 Scanner cin = new Scanner(System.in);

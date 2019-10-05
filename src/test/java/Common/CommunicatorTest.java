@@ -1,6 +1,4 @@
 package Common;
-
-import Common.Communicator;
 import org.junit.Test;
 
 import java.net.DatagramSocket;

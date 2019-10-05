@@ -20,6 +20,10 @@ public class Main{
         // Read Port Number from user
         System.out.println("Enter the port of the drone");
         int dronePort = telloInput.nextInt();
+
+//        // Read number of retries
+//        System.out.println("Enter number of retries");
+//        int maxRetries=telloInput.nextInt();
         DatagramSocket udpClient = new DatagramSocket();
         udpClient.setSoTimeout(1000);
         Flier flier= new Flier();
@@ -43,12 +47,12 @@ public class Main{
             System.out.println("Select your Mission for the day...");
             System.out.println("Press 1 for Simple Mission\n" + "Press 2 for Supersonic Mission\n" + "Press 3 for Bouncy Mission");
             selectedMission = telloInput.nextInt();
-            flier.SelectMission(mission[selectedMission-1],communicator);
+            flier.SelectMission(mission[selectedMission-1],communicator,droneState);
         }
         else if(choice==2){
             System.out.println("Enter the name of the file from which you want to load the Mission (Note: Kindly include the extension of the same)");
             String fileName = telloInput.next();
-            flier.SelectFile(fileName,communicator);
+            flier.SelectFile(fileName,communicator,droneState);
         }
         else{
             System.out.println("Enter the number of commands you want to execute");
@@ -58,7 +62,7 @@ public class Main{
             for(int j=0;j<noOfCommands;j++){
                 commandList[j]= telloInput.next();
             }
-            flier.ManualCommands(commandList,communicator);
+            flier.ManualCommands(commandList,communicator,droneState);
         }
 
 

@@ -231,9 +231,9 @@ public class DroneState {
         accelerationZ = 0.0;
         orientation = 0;
     }
-//    public String getPosition()
-//    {
-//        String reply="getPositionX(): "+getPositionX()+"\ngetPositionY(): "+getPositionY()+"\ngetPositionZ(): "+getPositionZ()+"\ngetOrientation(): "+getOrientation();
-//        return reply;
-//    }
+    public String getPosition()
+    {
+        String reply="getPositionX(): "+getPositionX()+"\ngetPositionY(): "+getPositionY()+"\ngetPositionZ(): "+getPositionZ()+"\ngetOrientation(): "+getOrientation();
+        return reply;
+    }
 }
